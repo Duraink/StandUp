@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Page d'inscription</title>
+  </head>
+  <body>
+    <form method="post">
+      <label>Pseudo: <input type="text" name="Pseudo" /> </label><br/>
+        <label>Mot de passe: <input type="password" name="MDP" /> </label><br/>
+          <label>Confirmation du Mot de passe: <input type="password" name="MDP2"> </label><br/>
+            <label>Adresse mail: <input type="text" name="adresse" /> </label><br/>
+            <input type="submit" value="Valider"></br>
+    </form>
+  </body>
+</html>
